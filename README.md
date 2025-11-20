@@ -86,7 +86,7 @@ This tool:
 For best results when creating new Cursor accounts:
 
 - **Change IP When Needed**: If you encounter "too many requests" errors, toggle your mobile data to get a new IP address
-- **Use Disposable Email Services**: You can use [Sazumi Cloud - Email Disposable](https://mail.sazumi.com) which works well with Cursor
+- **Use Disposable Email Services**: which works well with Cursor
 - **Reset Machine ID First**: Always reset your machine ID before creating a new Cursor account
 - **Use Private Browsing**: Register with private/incognito browser windows
 - **Clear Cookies**: Clear browser cookies after registration for better security
@@ -122,8 +122,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - [GitHub Repository](https://github.com/sazumivicky/cursor-reset-tools)
 - [Issue Tracker](https://github.com/sazumivicky/cursor-reset-tools/issues)
-- [Donate to Sazumi Viki](https://sociabuzz.com/sazumi/tribe)
+
 
 ---
 
-Made with ❤️ by Sazumi Cloud 
