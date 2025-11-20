@@ -30,7 +30,7 @@ Forget Cursor Student restrictions and country bans! This revolutionary web-base
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/sazumivicky/cursor-reset-tools.git
+git clone https://github.com/Rakhul07/cursor-reset-tools.git
 cd cursor-reset-tools
 ```
 
